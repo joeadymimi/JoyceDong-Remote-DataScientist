@@ -1,0 +1,26 @@
+# Compiled source #
+#####################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases #
+#####################
+*.sql
+*.sqlite
+
+# OS generated files #
+#####################
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Other #
+#####################
+*.ipynb_checkpoints
